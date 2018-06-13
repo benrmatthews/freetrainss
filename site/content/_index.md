@@ -5,12 +5,10 @@ subtitle: >-
   increasing your income and building the freelance business of your dreams ✨
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why FreeTrain?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Join FreeTrain and you'll grow your freelance life with support from a
+    community of friendly, knowledgeable and inspirational freelancers.  
 intro:
   heading: What we offer
   text: >-
@@ -21,23 +19,20 @@ intro:
 products:
   - image: img/illustrations-coffee.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+      When you sign up, you'll be part of a friendly freelance community, full
+      of freelancers sharing the ups and downs of their journey. Ask questions,
+      learn from the best and make new friends.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      All FreeTrain courses and resources are tested and improved by experienced
+      freelancers. You can be confident in using the resources and what you
+      learn in your own day-to-day freelance work.
+  - text: >-
+      Freelancing can be a lonely experience and you'll often be faced with
+      challenges that you don't know how to overcome. Freelance gives you the
+      support you need to thrive as a freelancer.
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Freelance Courses
+  text: "#### Freelance Foundations\n\nFree course \U0001F389\n\n### A beginner’s course to get you\_thinking about your freelance career and setting solid foundations from the beginning.\n\n###### [VIEW COURSE &gt;](https://go.freetrain.co/freelance-foundations)\n\n#### Find Freelance Clients FAST\n\n### **FIND and LAND your dream client in weeks instead of years — even if you don’t know where to find your first clients**\n\n####### Finding those first freelance clients can be tricky, but this course will give you the step-by-step-guide to finding – and winning – your first clients.\n\n###### [VIEW COURSE &gt;](https://go.freetrain.co/find-freelance-clients-fast)\n\n##### Freelance Pricing Masterclass\n\n### **Learn how to set your freelance rate with confidence**\n\n####### This course gives you the fast track to finding the right freelance rate for you and the confidence that you’re charging your full worth.\n\n###### [VIEW COURSE &gt;​](https://go.freetrain.co/freelance-pricing-masterclass-learn-how-to-set-your-freelance-rate-with-confidence)\n\n##### FANTASTIC Freelance Finances\n\n### **Miss these critical steps and kiss your hard earned freelance revenue goodbye**\n\n####### Not sure where to start with your freelance figures? Don’t bury your head in the sand – learn what it’s important to know when it…\n\n###### [VIEW COURSE &gt;](https://go.freetrain.co/freelance-finances-miss-these-critical-steps-and-kiss-your-hard-earned-freelance-revenue-goodbye)\n\n[View All Courses](https://freetrain.co/courses)"
 ---
 
