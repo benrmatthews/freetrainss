@@ -3,7 +3,7 @@ title: Learn to love freelancing
 subtitle: >-
   FreeTrain helps you learn how to freelance with courses on winning clients,
   increasing your income and building the freelance business of your dreams ✨
-image: /img/home-jumbotron.jpg
+image: /img/freetrain learn to love freelancing.png
 blurb:
   heading: Why FreeTrain?
   text: >-
